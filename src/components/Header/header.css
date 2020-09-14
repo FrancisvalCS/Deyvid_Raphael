@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Autography;
+  src: url('../../fonts/Autography.otf');
+}
+
+#main-header{
+  border: 1px solid;
+}
+.logo {
+  font-family: Autography;
+  font-size: 40px;
+  font-style: italic;
+  text-decoration: none;
+  color: #000;
+  margin-left: 20px;
+  font-weight: 400;
+  border: 1px solid;
+}
